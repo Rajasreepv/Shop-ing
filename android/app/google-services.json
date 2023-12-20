@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247541824670",
+    "project_id": "shop-ing-a283d",
+    "storage_bucket": "shop-ing-a283d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247541824670:android:6fcad7950d6b5ead8f8f8f",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhqWrYnLTMGXW3RtUhzZvuvpiTiIxFyPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
